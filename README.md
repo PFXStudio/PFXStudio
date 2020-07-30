@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<img align = "left" src="https://github-readme-stats.vercel.app/api?username=pfxstudio&count_private=true&show_icons=true"/>
+<img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfxstudio&layout=compact"/>
+<img align = "left" src="/1f70bed1bdcd01ae4d7ba55ae961a575.gif"/>
+
 <!--
 **PFXStudio/PFXStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
