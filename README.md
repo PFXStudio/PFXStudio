@@ -1,6 +1,6 @@
 ### 커밋 수 핵 많은데... 왜 저렇게 나올까.. 🥺
 
-<img src="https://github.com/PFXStudio/PFXStudio/blob/master/1f70bed1bdcd01ae4d7ba55ae961a575.gif" width="185" height="140"/>
+<iframe src="https://giphy.com/embed/dudcZA9e14HIY" width="100" height="120" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-excited-joy-dudcZA9e14HIY">via GIPHY</a></p>
 <p>
 <img align = "left" src="https://github-readme-stats.vercel.app/api?username=pfxstudio&count_private=true&show_icons=true" width=50%/>
 <img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfxstudio&layout=compact"/>
