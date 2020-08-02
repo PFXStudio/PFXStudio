@@ -1,4 +1,4 @@
-<img src="https://github.com/PFXStudio/PFXStudio/blob/master/1f70bed1bdcd01ae4d7ba55ae961a575.gif" width="185" height="140"/>
+<img align = "left" src="https://github.com/PFXStudio/PFXStudio/blob/master/1f70bed1bdcd01ae4d7ba55ae961a575.gif" width="185" height="140"/>
 <p>
 <!--
 ### 🤓
